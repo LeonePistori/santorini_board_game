@@ -77,5 +77,9 @@ Red arrows point
 **After each step button with triangle should be clicked** 
 
 **Before using the power make sure that it's active**
+***************************************
+## Important
+
+**This was a group project done with: https://github.com/marcopasqua and https://github.com/ZhanatShengelbay** 
 
  
